@@ -33,7 +33,7 @@ Sobre Mim
 
 💻 Habilidades
 
-Python: Nível Básico
+Python: Nível Básico\n
 AWS: Nível Básico
 SQL: Nível Básico
 Inglês: Nível Básico
